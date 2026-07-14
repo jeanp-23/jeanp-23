@@ -27,5 +27,5 @@ La mayoría de mi trabajo es práctico ("hands-on"): código limpio, análisis l
 
 ### 🌐 Conéctate Conmigo
 
-*   **LinkedIn:** [-Jean Pabón]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/jean-pabon-0a30892a7/))  <!-- Reemplaza "tu-usuario" por tu enlace real de LinkedIn -->
+*   **LinkedIn:** [-Jean Pabón](https://www.linkedin.com/in/jean-pabon-0a30892a7/)  <!-- Reemplaza "tu-usuario" por tu enlace real de LinkedIn -->
 *   **Correo de contacto:** Jeanp23.mc@gmail.com
