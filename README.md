@@ -1,28 +1,26 @@
 # ¡Hola, soy Jean Pabón! 👋
 
-Construyo soluciones de software donde el mundo físico se conecta con el código, enfocándome en visión artificial, automatización y desarrollo de sistemas estructurados.
+Ingeniero Mecatrónico en formación (Graduación: Septiembre 2026) y estudiante del Tecnólogo en Análisis y Desarrollo de Software (SENA). 
 
-La mayoría de mi trabajo es práctico ("hands-on"): código limpio, análisis lógico y despliegues listos para usar en visión por computadora (OpenCV), procesamiento de imágenes y desarrollo de software moderno.
-
----
-
-### 🛠️ En qué trabajo / Qué desarrollo
-
-*   **Visión Artificial:** Detección de patrones en tiempo real, análisis biomecánico/postural y tracking con Python, OpenCV y MediaPipe.
-*   **Fundamentos de Software (SENA):** Diseño y arquitectura de software, metodologías ágiles, análisis detallado de requisitos y ciclo de vida de aplicaciones.
-*   **Ecosistema de Código:** Desarrollo rápido y estructurado utilizando Python, C++ y MATLAB aplicados a la ingeniería.
-*   **Hardware y Automatización:** Diagnóstico de sistemas embebidos, calibración electrónica y control de lógica de hardware para entornos industriales y médicos.
-*   **Simulación Mecatrónica:** Pruebas e integración de entornos lógicos aplicados a robótica y automatización de procesos.
+Desarrollo soluciones donde el mundo físico, las redes y el código interactúan, integrando **Internet de las Cosas (IoT)**, **visión por computadora**, **desarrollo web full-stack** y flujos de trabajo apoyados en **Inteligencia Artificial**.
 
 ---
 
-### 👤 Sobre Mí
+### 🛠️ Stack Técnico y Capacidades
 
-*   **Ingeniero Mecatrónico en formación** (Graduación: Septiembre 2026) especializado en integrar sensores y visión por computadora con arquitecturas lógicas de software.
-*   **Tecnólogo en Análisis y Desarrollo de Software** (SENA) con fuerte enfoque en estructurar requisitos funcionales y construir código eficiente bajo estándares de calidad.
-*   **Creador del proyecto de grado:** Un aplicativo de visión artificial para el análisis postural biomecánico en tiempo real para entrenamiento físico, utilizando procesamiento de imagen avanzado.
-*   **Apasionado por la tecnología aplicada:** Creo firmemente en que el software y la mecatrónica deben trabajar juntos para optimizar procesos reales en la salud, el deporte y la industria.
+* **IoT y Embebidos:** Integración de sensores, lectura e interpretación de datos en tiempo real, comunicación serial/red y lógica de control electromecánico.
+* **Inteligencia Artificial y Visión Artificial:** Procesamiento de imágenes en tiempo real con Python, OpenCV y MediaPipe para análisis biomecánico/postural y detección de patrones.
+* **Desarrollo Web & Bases de Datos:** Construcción de aplicaciones web estructuradas utilizando JavaScript, PHP, HTML5, CSS3 y gestión de bases de datos relacionales en MySQL.
+* **Ingeniería & Lógica:** Desarrollo en C++ y MATLAB aplicados a simulación, optimización de procesos y diagnóstico sistemático de hardware.
+* **Metodologías & Herramientas:** Control de versiones con Git/GitHub, análisis de requisitos, arquitectura de software y documentación bajo normativas de calidad.
 
+---
+
+### 💻 Proyectos e Intereses
+
+* 🚀 **Proyecto de Grado:** Aplicativo de visión por computadora para análisis postural biomecánico en tiempo real.
+* 🤖 **Herramientas de IA:** Incorporación de modelos y asistentes de Inteligencia Artificial para la optimización de código, automatización y análisis de datos.
+* 🌐 **Proyectos IoT & Web:** Desarrollo de soluciones que conectan dispositivos físicos con interfaces web y bases de datos relacionales.
 ---
 
 ### 🌐 Conéctate Conmigo
