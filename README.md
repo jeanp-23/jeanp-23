@@ -1,6 +1,6 @@
 # ¡Hola, soy Jean Pabón! 👋
 
-Ingeniero Mecatrónico y estudiante del Tecnólogo en Análisis y Desarrollo de Software (SENA). 
+Ingeniero Mecatrónico y Tecnólogo en Análisis y Desarrollo de Software (SENA). 
 
 Desarrollo soluciones donde el mundo físico, las redes y el código interactúan, integrando **Internet de las Cosas (IoT)**, **visión por computadora**, **desarrollo web full-stack** y flujos de trabajo apoyados en **Inteligencia Artificial**.
 
